@@ -2,6 +2,10 @@
 
 > A lightweight Jira project
 
+Master hosted here: 
+
+https://stanwood-jira.firebaseapp.com/
+
 ## Build Setup
 
 ```bash
